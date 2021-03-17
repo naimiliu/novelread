@@ -1,0 +1,34 @@
+{
+	"big5.quanben5.com":{
+		"pageElement":"#content",
+		"nextPage":"a:contains('下一頁')"
+	},
+	"big5.quanben-xiaoshuo.com":{
+		"pageElement":"#articlebody.articlebody",
+		"nextPage":"a:contains('下一章')"
+	},
+	"www.wutuxs.com":{
+		"pageElement":"#contents",
+		"nextPage":"a:contains('下一页')"
+	},
+	"tw.aixdzs.com":{
+		"pageElement":".content",
+		"nextPage":"a:contains('下一章')"
+	},
+	"www.ptwxz.com":{
+		"pageElement":"#content.fonts_mesne",
+		"nextPage":"a:contains('下一章')"
+	},
+	"www.yooread.net":{
+		"pageElement":"#TextContent.read-content",
+		"nextPage":"a:contains('下一頁')"
+	},
+	"tw.zhsxs.com":{
+		"pageElement":"no_content_id",
+		"nextPage":"a:contains('下一章')"
+	},
+	"tw.uukanshu.com":{
+		"pageElement":".contentbox",
+		"nextPage":"a:contains('下一章')"
+	}
+}	
